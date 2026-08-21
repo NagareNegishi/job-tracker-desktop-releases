@@ -4,4 +4,4 @@ Public distribution assets for [Job Application Tracker](https://github.com/Naga
 
 - `LICENSE.md` — the app's proprietary license, linked from its Flatpak `metainfo.xml`
 - `screenshots/` — app screenshots for the Flathub listing
-- Release binaries (Windows/macOS/Linux installers) — published as [GitHub Releases](../../releases), not committed to this repo's tree
+- Release binaries (Windows/macOS/Linux installers) — published as [GitHub Releases](../../releases), not committed to this repo's tree. macOS builds are unsigned; right-click (Control-click) the app → Open to bypass Gatekeeper's first-launch warning.
